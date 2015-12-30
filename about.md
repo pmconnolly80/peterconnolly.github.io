@@ -65,6 +65,7 @@ As a recent graduate of the Nashville Software School, I am currently looking to
                             <p class="card-text"><small class="text-muted">2015</small></p>
                         </div>
                     </div>
+                    <br>
                     <div class="card">
                         <a href="https://github.com/pmconnolly80/FinalCapstone"><img class="card-img-top" src="/images/tavernBeerList2.png" alt="Alternate Text" style="width:100%"></a>
                         <div class="card-block">
