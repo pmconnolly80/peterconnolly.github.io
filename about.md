@@ -63,7 +63,6 @@ As a recent graduate of the Nashville Software School, I am currently looking to
                             <h6 class="card-text">AngularJS Application</h6>
                             <p class="card-text"><small class="text-muted">2015</small></p>
                         </div>
-                    </div>
                     <div class="card">
                         <div class="card-block">
                             <h4 class="card-title"><a href="https://github.com/pmconnolly80/FinalCapstone">NSS Final Capstone</h4>
