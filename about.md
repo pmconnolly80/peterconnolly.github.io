@@ -65,7 +65,7 @@ As a recent graduate of the Nashville Software School, I am currently looking to
                             <p class="card-text"><small class="text-muted">2015</small></p>
                         </div>
                     </div>
-
+               
                     <div class="card">
                         <div class="card-block">
                             <a href="https://github.com/pmconnolly80/FinalCapstone"><h4 class="card-title">NSS Final Capstone</h4></a>

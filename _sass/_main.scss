@@ -10,7 +10,7 @@
 }
 .post header p {
   margin-bottom:20px;
-  color:#999;
+  color:#6C91C2;
 }
 .post header p a[rel="author"] {
   color:inherit;
@@ -18,14 +18,14 @@
   border-bottom:1px dotted;
 }
 .post h1 a {
-  color:#555;
+  color:#373F47;
   text-decoration: none;
-  border-bottom:2px solid #fff;
+  border-bottom:2px solid #AAABBC;
   @include transition(.2s);
 }
 .post h1 a:hover {
   color:#3097d1;
-  border-bottom:3px solid #eee;
+  border-bottom:3px solid #AAABBC;
 }
 .post > p {
   line-height:1.8rem;
@@ -52,37 +52,7 @@ iframe {
 #disqus_thread {
   margin:20px 0px;
 }
-/* Youtube, Vimeo, etc. videos */
-.video-container {
-  position:relative;
-  padding-bottom:56.25%;
-  padding-top:30px;
-  height:0;
-  overflow:hidden;
-}
-.video-container iframe, .video-container object, .video-container embed {
-  position:absolute;
-  top:0;
-  left:0;
-  width:100%;
-  height:100%;
-}
-/* Facebook, Twitter, Google Plus share buttons */
-#social_buttons {
-  padding: 20px 0px;
-}
-@media (min-width:544px) {
-  #tweet-button {
-    text-align:center;
-  }
-  #gplus-button {
-    text-align:right;
-    padding-right:0;
-  }
-  #facebook-button {
-    padding-left:0;
-  }
-}
+
 /* Next post preview */
 #next_post {
   text-align:center;
@@ -115,36 +85,7 @@ iframe {
   color: rgba(0,0,0,0.6);
   border: 1px solid rgba(0,0,0,0.4);
 }
-/* Subscribe button at bottom of post */
-.subscribe-button, .subscribe-button:focus, .subscribe-button:active {
-  border:0;
-  background:#9fbb58;
-  outline:none;
-  @include transition(.2s);
-}
-.subscribe-button:hover {
-  background:#8ba644;
-  border:0;
-  outline:none;
-}
-.subscribe-button-post {
-  padding:10px 0;
-  margin:30px auto;
-  min-width:175px;
-  max-width:50%;
-}
-/* Makes subscribe box pulsate */
-.glowing { 
-  @include animation(pulsate 1.5s ease-in-out infinite alternate);
-}
-@include keyframes(pulsate) {
-  from {
-    box-shadow: 0px 0px 20px 0px rgba(255,221,27,0.2);
-  }
-  to {
-    box-shadow: 0px 0px 40px 0px rgba(255,221,27,1);
-  }
-}
+
 /* Pagination next/prev buttons */
 .pager-next a, .pager-prev a {
   border: 1px solid transparent !important;
@@ -155,3 +96,14 @@ iframe {
 code {
   display:block;
 }
+
+.card {
+  border-color: #AAABBC;
+  border-radius: 5px;
+}
+
+.card-title {
+  color: #6C91C2;
+}
+
+
