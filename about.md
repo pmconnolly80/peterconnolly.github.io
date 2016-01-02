@@ -57,8 +57,7 @@ As a recent graduate of the Nashville Software School, I am currently looking to
             <div class="card-deck-wrapper">
                 <div class="card-deck">
                     <div class="card">
-                        <a href="https://github.com/pmconnolly80/FirstHalfCapstone">
-                        <!-- <img class="card-img-top" src="/images/tavernBeerList.png" alt="Alternate Text" style="width:100%"></a> -->
+                        <a href="https://github.com/pmconnolly80/FirstHalfCapstone"><img class="card-img-top" src="/images/tavernBeerList.png" alt="Alternate Text" style="width:100%"></a>
                         <div class="card-block">
                             <h4 class="card-title">NSS First Capstone</h4>
                             <h5 class="card-text">Tavern Beer List</h5>
@@ -68,7 +67,7 @@ As a recent graduate of the Nashville Software School, I am currently looking to
                     </div>
                     <div class="card">
                         <a href="https://github.com/pmconnolly80/FinalCapstone">
-                        <!-- <img class="card-img-top" src="/images/tavernBeerList2.png" alt="Alternate Text" style="width:100%"></a> -->
+                        </a>
                         <div class="card-block">
                             <h4 class="card-title">NSS Final Capstone</h4>
                             <h5 class="card-text">Tavern Beer List</h5>
