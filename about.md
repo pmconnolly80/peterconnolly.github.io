@@ -57,20 +57,20 @@ As a recent graduate of the Nashville Software School, I am currently looking to
             <div class="card-deck-wrapper">
                 <div class="card-deck">
                     <div class="card">
-                        <a href="https://github.com/pmconnolly80/FirstHalfCapstone">
+                        
                         </a>
                         <div class="card-block">
-                            <h4 class="card-title">NSS First Capstone</h4>
+                            <h4 class="card-title"><a href="https://github.com/pmconnolly80/FirstHalfCapstone">NSS First Capstone</h4>
                             <h5 class="card-text">Tavern Beer List</h5>
                             <h6 class="card-text">AngularJS Application</h6>
                             <p class="card-text"><small class="text-muted">2015</small></p>
                         </div>
                     </div>
                     <div class="card">
-                        <a href="https://github.com/pmconnolly80/FinalCapstone">
+                        
                         </a>
                         <div class="card-block">
-                            <h4 class="card-title">NSS Final Capstone</h4>
+                            <h4 class="card-title"><a href="https://github.com/pmconnolly80/FinalCapstone">NSS Final Capstone</h4>
                             <h5 class="card-text">Tavern Beer List</h5>
                             <h6 class="card-text">C# ASP.Net Application</h6>
                             <p class="card-text"><small class="text-muted">2015</small></p>
