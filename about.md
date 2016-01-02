@@ -57,8 +57,6 @@ As a recent graduate of the Nashville Software School, I am currently looking to
             <div class="card-deck-wrapper">
                 <div class="card-deck">
                     <div class="card">
-                        
-                        </a>
                         <div class="card-block">
                             <h4 class="card-title"><a href="https://github.com/pmconnolly80/FirstHalfCapstone">NSS First Capstone</h4>
                             <h5 class="card-text">Tavern Beer List</h5>
@@ -67,8 +65,6 @@ As a recent graduate of the Nashville Software School, I am currently looking to
                         </div>
                     </div>
                     <div class="card">
-                        
-                        </a>
                         <div class="card-block">
                             <h4 class="card-title"><a href="https://github.com/pmconnolly80/FinalCapstone">NSS Final Capstone</h4>
                             <h5 class="card-text">Tavern Beer List</h5>
