@@ -1,5 +1,5 @@
 ---
-title: 'Second Blog Post?'
+title: 'Second Blog Post'
 author: Peter
 layout: post
 permalink: /secondblogpost
