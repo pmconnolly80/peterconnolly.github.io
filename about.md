@@ -53,7 +53,7 @@ As a recent graduate of the Nashville Software School, I am currently looking to
     <div class="row">
         <h2>Projects</h2>
         <hr>
-        <div class="col-md-12" style="margin-bottom:20px">
+        <div class="col-md-12 col-sm-12" style="margin-bottom:20px">
             <div class="card-deck-wrapper">
                 <div class="card-deck">
                     <div class="card">
