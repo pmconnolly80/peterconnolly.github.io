@@ -59,7 +59,7 @@ As a recent graduate of the Nashville Software School, I am currently looking to
                     <div class="card">
                         
                         <div class="card-block">
-                            <a href="https://github.com/pmconnolly80/FirstHalfCapstone"><h4 class="card-title">NSS First Capstone</h4></a>
+                            <a href="https://github.com/pmconnolly80/NSSFirstHalfCapstone"><h4 class="card-title">NSS First Capstone</h4></a>
                             <h5 class="card-text">Tavern Beer List</h5>
                             <h6 class="card-text">AngularJS Application</h6>
                             <p class="card-text"><small class="text-muted">2015</small></p>
